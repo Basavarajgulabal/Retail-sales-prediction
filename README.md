@@ -60,25 +60,25 @@ Feature Engineering and Preprocessing:
 
 Model Selection and Training:
 
-Split the preprocessed data into training and testing sets.
+1-Split the preprocessed data into training and testing sets.
 
-Utilized a variety of machine learning algorithms, including linear regression, decision trees, random forests, LightGBM, and XGBoost.
+2-Utilized a variety of machine learning algorithms, including linear regression, decision trees, random forests and XGBoost.
 
-Evaluated model performance using metrics such as R-squared score, accuracy, and mean absolute percentage error (MAPE).
+3-Evaluated model performance using metrics such as R-squared score, accuracy, and mean absolute percentage error (MAPE).
 
-Employed regularization techniques (e.g., Lasso, Ridge, Elastic Net) for improved model performance.
+4-Employed regularization techniques (e.g., Lasso, Ridge, Elastic Net) for improved model performance.
 
-Identified XGBoost as the optimal model due to its high accuracy, with an MAPE of only 2% and an R-squared score of 0.94.
+5-Identified XGBoost as the optimal model due to its high accuracy, with an MAPE of only 2% and an R-squared score of 0.94.
 
 
 
 Model Deployment and Conclusion:
 
-Finalized the XGBoost model for deployment, as it demonstrated the highest accuracy and the least error.
+1-Finalized the XGBoost model for deployment, as it demonstrated the highest accuracy and the least error.
 
-Developed a comprehensive machine learning pipeline that combines data processing, feature engineering, and model evaluation.
+2-Developed a comprehensive machine learning pipeline that combines data processing, feature engineering, and model evaluation.
 
-Successfully created a model capable of accurately predicting sales for Rossmann stores up to six weeks in advance.
+3-Successfully created a model capable of accurately predicting sales for Rossmann stores up to six weeks in advance.
 
 This project showcases the effective utilization of data analysis, feature engineering, and machine learning techniques to solve a real-world forecasting problem. The insights gained from the analysis provide valuable information for decision-making within the retail industry.
 
